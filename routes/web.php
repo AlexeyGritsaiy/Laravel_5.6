@@ -17,3 +17,4 @@
 
 
 Route::view('/','welcome');
+Route::view('user','user');
