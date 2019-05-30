@@ -79,7 +79,8 @@
 
     <div class="content">
         <div class="title m-b-md">
-            User
+           {{$userId}}
+           {{$secondUser}}
         </div>
 
         <div class="links">
