@@ -17,4 +17,4 @@
 
 
 Route::view('/', 'welcome');
-Route::get('user/{id}/user2_id', 'TestController@user');
+Route::get('user/{id}/{user2_id}', 'TestController@user');
